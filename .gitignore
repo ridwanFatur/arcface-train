@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+arcface_torch/
+data/
+work_dirs/
