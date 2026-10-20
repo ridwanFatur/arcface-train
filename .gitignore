@@ -2,3 +2,7 @@
 arcface_torch/
 data/
 work_dirs/
+.env
+recents/
+docker-file-pytorch/
+pipeline.yaml
