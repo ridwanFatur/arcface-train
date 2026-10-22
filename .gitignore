@@ -6,3 +6,4 @@ work_dirs/
 recents/
 docker-file-pytorch/
 pipeline.yaml
+*.pyc
